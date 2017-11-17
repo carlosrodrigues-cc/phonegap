@@ -1,2 +1,2 @@
 # phonegap
-phonegap
+phonegap cc
